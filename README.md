@@ -14,3 +14,6 @@ In the below image you can see the inputs that has to be given by the user to ge
 The below image is the output of the Application (i.e the Email Body)
 ![Screenshot (75)](https://github.com/Sri-Vathsa007/Email-Generator-Using-Langchain/assets/58554869/b805438b-b467-48a9-8082-3951d2d8c712)
 
+
+Note:
+You have to first download the llama-2-7b-chat model from the Hugging Face Website before running the application.
